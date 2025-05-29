@@ -1,0 +1,24 @@
+package helloworld;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		add (1,2);
+		  
+	  }
+	    
+	static void add (int i , int j ){
+	   
+	 int k=i+j;
+	    
+	System.out.println("Addition of i &j" +k);
+
+	}
+
+	
+		// TODO Auto-generated method stub
+
+	
+
+}
